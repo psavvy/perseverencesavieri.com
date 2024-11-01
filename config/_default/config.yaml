@@ -9,3 +9,4 @@ outputs:
     - RSS
     - JSON
 baseURL: "https://perseverencesavieri.com/"
+googleAnalytics: "G-3LXVDG7Z92"
