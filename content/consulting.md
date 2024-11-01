@@ -23,4 +23,5 @@ For a detailed list of publications resulting from my consulting work, please re
 
 ## How to Work with Me
 I offer flexible consulting options, from single-session consultations to longer-term statistical coaching and project support. If you’re interested in working together or have any specific statistical needs, please feel free to [contact](/contact/) me for more information.
+You can also check out my [Upwork](https://www.upwork.com/freelancers/~01b2c3d0894b266133?viewMode=1) profile for more information.
 
