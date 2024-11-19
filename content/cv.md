@@ -4,7 +4,7 @@ layout: "simple"
 description: "Perseverence Savieri's CV"
 ---
 
-{{< button href="/docs/psaviericv.pdf" target="_self" >}}
+{{< button href="/docs/psaviericv2.pdf" target="_self" >}}
 Download CV
 {{< /button >}}
 
@@ -12,10 +12,11 @@ Download CV
 
 ## Summary
 
-I am a doctoral researcher in medical sciences at Vrije Universiteit Brussels (Belgium), within the Biostatistics and Medical Informatics Research Group [(BISI)](<https://bisi.research.vub.be/>). I am also a biostatistician and statistical consultant with a robust background in Statistics and Mathematics. Specialising in statistical programming, high-dimensional data analysis, and machine learning. I drive evidence-based decision-making in health and medical informatics. My expertise in research design, statistical modelling, and data visualisation has contributed to numerous peer-reviewed publications. I thrive in interdisciplinary collaborations, offering clear communication and analytical insights to tackle complex research challenges.
+I am a doctoral researcher in medical sciences at Vrije Universiteit Brussels (Belgium), within the Biostatistics and Medical Informatics Research Group [(BISI)](<https://bisi.research.vub.be/>). I am also an experienced biostatistician and statistical consultant. Specialising in statistical programming, high-dimensional data analysis, and machine learning. I drive evidence-based decision-making in health and medical informatics. My research design, statistical modelling, and data visualisation skills have contributed to multiple peer-reviewed publications. I thrive in interdisciplinary collaborations, offering clear communication and analytical insights to address complex research challenges.  
+  
+I am passionate about leveraging data-driven insights to solve complex problems, improve decision-making, and drive innovation. With expertise in biostatistics, data analysis, and statistical consulting, I thrive in translating data into actionable solutions that enhance outcomes and support impactful research.
 
 ---
-
 ## Experience
 
 ### Industry
@@ -61,7 +62,6 @@ I am a doctoral researcher in medical sciences at Vrije Universiteit Brussels (B
     -   Guided and supported first-year MSc Biostatistics students in data management and statistical programming using R and STATA.
 
 ---
-
 ## Education
 
 -   Sep 2021 -- Present: **PhD in Medical Sciences** -- Vrije Universiteit Brussels, Belgium
@@ -69,7 +69,17 @@ I am a doctoral researcher in medical sciences at Vrije Universiteit Brussels (B
 -   Aug 2010 -- Jun 2014: **BSc (Hons) in Statistics** -- University of Zimbabwe, Zimbabwe
 
 ---
+## Professional Training & Certifications
 
+-   **Medical Writing (Basic)** -- Emtex Academy | *Nov 2024*
+-   **Advanced Clinical Research Fundamentals** -- Udemy | *Jun 2024*
+-   **Peace and Conflict Transformation** -- Holy Trinity Brussels, Brussels, Belgium | *Oct 2023 -- Apr 2024*
+-   **Project Management** -- True Colours | *Nov 2023 -- Jan 2024*
+-   **Clinical Pharmacology and Pharmacometrics** -- Strathmore University, Nairobi, Kenya (Online via Pharmacometrics Africa & CREATES) | *Nov 2020 -- Mar 2021*
+-   **Foundation in Omics** -- LabVine Learning, Cape Town, South Africa (Online via Centre for Proteomic and Genomic Research) | *Nov 2019*
+-   **Genetic Epidemiology** -- Stellenbosch University, Cape Town, South Africa | *Sep 2019*
+
+---
 ## Skills & Expertise
 
 -   Statistical Software: R (RStudio, R Markdown & Quarto, R Shiny), STATA, SPSS, GitHub, Python, SAS and LaTeX
